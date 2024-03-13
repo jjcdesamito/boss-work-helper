@@ -1,0 +1,37 @@
+TAX INVOICE Invoice No:
+123456789
+Invoice Date:
+30.01.2024
+Contract No : 123456789 Warehouse:
+Segment: 4
+Buyers Order No 1234567890
+Country of Origin : Shipment From Philippines otherwise indicated
+Shipped by: 3 Sea
+Freight Terms: ABC CDEFGH
+Payment Terms: Due 150 days
+Buyers Name and Address:
+ABC Philippines, Inc.
+Warehouse 1-A  Alpha Compound Km.10 East
+Beta Road
+Bo. Add
+1111 Manila
+Philippines
+Ship To:
+111 ABC PHILIPPINES, INC
+MR JOHN DOE
+WAREHOUSE 1A  ALPHA COMPD KM 10 EAST BETA
+RD,BO. ADD
+1111 MANILA
+Philippines
+Item Shipped Part
+No
+Ordered Part No Description Qty Total Weight
+( KG )
+Unit Price
+( JPY )
+Amount
+( JPY )
+0000 A0000000000 O-RING,CAM ROOM 1 0.006 386 1,000
+0000 B0000000000 WASHER(T) 2 0.054 53 2,000
+0000 C0000000000 D0000000000 PACKING ROCKER CASE 3 0.060 274 3,000
+Sub Total JPY 111,222.00
