@@ -93,11 +93,11 @@ const getItems = () => {
     switch (arrayItem.length) {
       case 7:
         resultItem += arrayItem[1] + '\t';
-        resultItem += arrayItem[2].split('||').join(' '); + '\t'; //desc
+        resultItem += arrayItem[2].split('||').join(' ') + '\t'; //desc // fixed
         resultItem += arrayItem[3] + '\t';
         resultItem += '\t'; //for hidden column;
         resultItem += arrayItem[5] + '\t';
-        resultItem += arrayItem[6] + '\n';
+        resultItem += arrayItem[6] + '\n'; 
 
         break;
       default:
